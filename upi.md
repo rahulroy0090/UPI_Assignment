@@ -31,7 +31,7 @@ Beneficiary Bank – Involvement of receiver’s bank account.</li>
 ### 3. What is Gateway,PSP ,HSM, NPCI, ESB ,CBS , LIMIT?
 
 <p>
-Payment Gateway: Imagine a bridge connecting your bank to where you want to send money online. The payment gateway is like that bridge. It lets you make online transactions using different methods like credit cards, UPI, etc.</p>
+<b>Payment Gateway:</b> Imagine a bridge connecting your bank to where you want to send money online. The payment gateway is like that bridge. It lets you make online transactions using different methods like credit cards, UPI, etc.</p>
 
 <p>
 Payment Service Provider (PSP): Think of PSPs as middlemen. They help businesses accept electronic payments like credit cards. They connect the people paying (consumers) with the businesses receiving the payments.
